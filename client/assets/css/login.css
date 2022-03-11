@@ -1,0 +1,13 @@
+.wrap-input input,
+.wrap-input .wrap-icon {
+    float: right;
+}
+
+.error {
+    color: red;
+}
+
+.wrap-input .form_input:focus {
+    outline: none;
+    box-shadow: none;
+}
